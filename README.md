@@ -2,7 +2,7 @@
 
 Projeto com um temporizador onde é possível controlar o tempo do relógio e alterar o som de fundo. 
 
-<a href="https://kaioba13.github.io/FocusTimer-DarkMode/" target="_blank">Clique aqui pra visitar</a>
+<a href="https://kaioba13.github.io/FocusTimer/" target="_blank">Clique aqui pra visitar</a>
 
 Principais conceitos;
 
